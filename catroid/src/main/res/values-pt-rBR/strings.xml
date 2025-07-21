@@ -1814,8 +1814,8 @@ precisa de acesso de leitura e escrita a ele. Você sempre pode alterar as permi
     <string formatted="false" name="formula_editor_operator_divide">÷</string>
     <string formatted="false" name="formula_editor_operator_power">^</string>
     <string formatted="false" name="formula_editor_image_button_description_delete">apagar</string>
-    <string formatted="false" name="formula_editor_image_button_description_calculate">calculate</string>
-    <string formatted="false" name="formula_editor_image_button_description_confirm">confirm</string>
+    <string formatted="false" name="formula_editor_image_button_description_calculate">calcular</string>
+    <string formatted="false" name="formula_editor_image_button_description_confirm">confirmar</string>
     <string formatted="false" name="formula_editor_image_button_description_color_picker">seletor de cores</string>
     <string formatted="false" name="formula_editor_image_button_description_functions_toggle">alternar funções</string>
     <string formatted="false" name="formula_editor_variable_dialog_title">Nova Variável</string>
